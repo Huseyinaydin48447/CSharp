@@ -22,5 +22,5 @@ SQL Server
 
 .NET Framework/.NET Core
 
-<img width="743" height="500" alt="image" src="https://github.com/user-attachments/assets/0e8a2d36-d8fd-421b-8453-ef878c9876f9" />
+<img width="919" height="485" alt="image" src="https://github.com/user-attachments/assets/011925d3-96ed-4d05-a0ab-1aa047942f6d" />
 
