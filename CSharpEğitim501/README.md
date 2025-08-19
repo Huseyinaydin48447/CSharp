@@ -21,3 +21,6 @@ Dapper ORM
 SQL Server
 
 .NET Framework/.NET Core
+
+<img width="743" height="500" alt="image" src="https://github.com/user-attachments/assets/0e8a2d36-d8fd-421b-8453-ef878c9876f9" />
+
