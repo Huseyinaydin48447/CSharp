@@ -1,4 +1,5 @@
  Entity Framework ile Tur Projesi
+
 📌 Amaç: Entity Framework  ve MySQL  kullanarak bir tur yönetim sistemi oluşturmak.
 
 ✔️ Kazanımlar:
