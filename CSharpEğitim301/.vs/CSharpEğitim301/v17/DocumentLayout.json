@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\csharpe\u011Fitim301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|solutionrelative:csharpe\u011Fitim301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\csharpe\u011Fitim301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|solutionrelative:csharpe\u011Fitim301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|c:\\users\\husey\\onedrive\\masa\u00FCst\u00FC\\csharpe\u011Fitim301\\csharpe\u011Fitim301.presentationlayer\\frmcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|solutionrelative:csharpe\u011Fitim301.presentationlayer\\frmcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\csharpe\u011Fitim301.presentationlayer\\frmcategory.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|solutionrelative:csharpe\u011Fitim301.presentationlayer\\frmcategory.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\csharpe\u011Fitim301.presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BC37AB1-96FF-48CE-AAC5-F0197DB65C22}|CSharpE\u011Fitim301.PresentationLayer\\CSharpE\u011Fitim301.PresentationLayer.csproj|solutionrelative:csharpe\u011Fitim301.presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB8D3F5-39B3-4672-8CE9-CBF0948BDA98}|CSharpE\u011Fitim301.BusinessLayer\\CSharpE\u011Fitim301.BusinessLayer.csproj|C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\csharpe\u011Fitim301.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB8D3F5-39B3-4672-8CE9-CBF0948BDA98}|CSharpE\u011Fitim301.BusinessLayer\\CSharpE\u011Fitim301.BusinessLayer.csproj|solutionrelative:csharpe\u011Fitim301.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB8D3F5-39B3-4672-8CE9-CBF0948BDA98}|CSharpE\u011Fitim301.BusinessLayer\\CSharpE\u011Fitim301.BusinessLayer.csproj|C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\csharpe\u011Fitim301.businesslayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB8D3F5-39B3-4672-8CE9-CBF0948BDA98}|CSharpE\u011Fitim301.BusinessLayer\\CSharpE\u011Fitim301.BusinessLayer.csproj|solutionrelative:csharpe\u011Fitim301.businesslayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 328,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "CSharpE\u011Fitim301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:29:27.959Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs",
+              "RelativeToolTip": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:27:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:19:40.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCategory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.Designer.cs",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.Designer.cs",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.Designer.cs",
+              "RelativeToolTip": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAIcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:50:13.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCategory.resx",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.resx",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.resx",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.resx",
+              "RelativeToolTip": "CSharpE\u011Fitim301.PresentationLayer\\FrmCategory.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-23T18:50:38.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\App.config",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.PresentationLayer\\App.config",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.PresentationLayer\\App.config",
+              "RelativeToolTip": "CSharpE\u011Fitim301.PresentationLayer\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-23T18:20:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.BusinessLayer\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "CSharpE\u011Fitim301.BusinessLayer\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\husey\\OneDrive\\Masa\u00FCst\u00FC\\CSharpE\u011Fitim301\\CSharpE\u011Fitim301.BusinessLayer\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "CSharpE\u011Fitim301.BusinessLayer\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:22:21.807Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 72,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
