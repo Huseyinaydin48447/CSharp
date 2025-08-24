@@ -5,7 +5,7 @@ Projenizin ana ekranı kullanıcıya finansal durumuna dair hızlı ve kapsamlı
 
 <img width="1072" height="654" alt="Ekran görüntüsü 2025-08-24 103102" src="https://github.com/user-attachments/assets/19f6886a-23a6-4b08-93b5-736f13b54611" />
 
-* Toplam Bakiye: Tüm banka hesaplarındaki paraların toplamını anlık olarak gösterir.
+*Toplam Bakiye: Tüm banka hesaplarındaki paraların toplamını anlık olarak gösterir.
 
 *Güncel Fatura Bilgisi: Yaklaşan veya ödenmemiş faturalardan birini (Elektrik, Doğalgaz, Su, İnternet) ve tutarını döngüsel olarak sergiler.
 
