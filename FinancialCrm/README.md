@@ -1,6 +1,8 @@
 1. 🏠 Dashboard - Genel Bakış
 Projenizin ana ekranı kullanıcıya finansal durumuna dair hızlı ve kapsamlı bir bakış sunar.
 
+
+
 <img width="1072" height="654" alt="Ekran görüntüsü 2025-08-24 103102" src="https://github.com/user-attachments/assets/19f6886a-23a6-4b08-93b5-736f13b54611" />
 
 * Toplam Bakiye: Tüm banka hesaplarındaki paraların toplamını anlık olarak gösterir.
@@ -15,9 +17,14 @@ Projenizin ana ekranı kullanıcıya finansal durumuna dair hızlı ve kapsamlı
 
    *Fatura Tutarları Grafiği: Faturaların tutarlarını görselleştirerek hangilerinin daha yüksek maliyetli olduğunu kolayca anlamanızı sağlar.
 
+   
+
 
 2. 🏦 Banka Hesapları Modülü
 Tüm banka hesaplarınızı tek bir ekrandan yönetmenizi ve son hareketleri takip etmenizi sağlar.
+
+
+
 
 <img width="1060" height="645" alt="Ekran görüntüsü 2025-08-24 102659" src="https://github.com/user-attachments/assets/4108d9f5-7fc0-47cf-a40a-f86dee13e088" />
 
@@ -25,10 +32,20 @@ Tüm banka hesaplarınızı tek bir ekrandan yönetmenizi ve son hareketleri tak
 
 * Son Hareketler Dökümü: Hesap hareketlerinizi (örneğin, "Kyk Burs ödemesi", "Part-time Maaş") en yeniden eskiye doğru sıralı bir şekilde gösterir. İşlem açıklaması, tutarı ve tarihi ile birlikte listelenir.
 
+
+
+
 * 3. 💡 Fatura Yönetim Modülü
 Ödemelerinizi düzenli bir şekilde takip edebilmeniz için tüm faturalarınızı yönetir.
 
-<img width="1072" height="654" alt="Ekran görüntüsü 2025-08-24 103102" src="https://github.com/user-attachments/assets/74e866de-3aea-4d78-82a9-609269bcabcf" />
+
+
+
+<img width="1056" height="642" alt="Ekran görüntüsü 2025-08-24 102901" src="https://github.com/user-attachments/assets/bd0e8c59-ef3c-4ba3-b426-99d22ca11814" />
+
+
+
+
 
 * CRUD Operasyonları: Faturalarınızı Listeleme, Ekleme, Silme ve Güncelleme işlemlerini yapabileceğiniz tam donanımlı bir yönetim paneli sunar.
 
@@ -36,10 +53,19 @@ Tüm banka hesaplarınızı tek bir ekrandan yönetmenizi ve son hareketleri tak
 
 * Kolay Veri Girişi: Tablodaki bir faturaya çift tıklayarak ilgili bilgileri hemen düzenleme alanlarına aktarabilirsiniz.
 
+
+
+
 4. ⚙️ Ayarlar ve Kullanıcı Yönetimi
 Hesap bilgilerinizi ve güvenliğinizi yönetebileceğiniz merkezi bir modüldür.
 
+
+
+
 <img width="1066" height="648" alt="Ekran görüntüsü 2025-08-24 104142" src="https://github.com/user-attachments/assets/6529e128-30a1-40a5-b2e0-6398643c28aa" />
+
+
+
 
 Profil Bilgileri: Kullanıcı adı, şifre, ad-soyad ve e-posta gibi kişisel bilgilerinizi görüntüler ve düzenlemenize olanak tanır.
 
